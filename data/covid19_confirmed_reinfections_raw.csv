@@ -1,0 +1,33 @@
+V1,V2,V3,V4,V5,V6,V7,V8,V9,V10,V13
+2,CASES,DEATHS,RECOVERED,NA,AVERAGE INTERVAL,AVERAGE INTERVAL,AVERAGE INTERVAL,SUSPECTED CASES,SUSPECTED CASES,NA
+3,28,1,26,NA,78 days,78 days,78 days,Cases,Deaths,NA
+6,Reported,Location,Patient,Interval,Interval,Symptoms (1st case),Symptoms (2nd case),Recovered,Links,Identifier
+7,Dec. 11,Peru,6/F,97 days,97 days,Mild,Mild,N/A,Details,6yo in Lima. First confirmed case.
+8,Dec. 9,Brazil,37/F,116 days,116 days,Mild,Mild,Yes,Details,"HCW living in Rio Grande do Norte, working in Paraiba"
+9,Nov. 21,South Korea,21/F,10 days,10 days,Mild,Mild,Yes,Details,"SK first case, 3 episodes"
+10,Nov. 10,Belgium,30s/F,185 days,185 days,Mild (long),Mild (milder),Yes,Details,"HCW, hospital outbreak"
+11,Oct. 16,Sweden,53/F,120 days,120 days,Mild,Mild (milder),Yes,Details,Sahlgrenska Uni Hospital/researcher Johan Ringlander
+12,Oct. 14,Spain,62/M,147 days,147 days,Mild,Serious,Yes,Details,NA
+13,Oct. 12,Netherlands,89/F,54 days,54 days,Moderate,Serious,No,Details,1st death. Initial report August 24
+14,Sept. 30,Belgium,30/M,143 days,143 days,Mild,Mild,Yes,Details,Antwerp GP
+15,Sept. 30,Belgium,25/F,115 days,115 days,Mild,Mild,Yes,Details,NA
+16,Sept. 29,Qatar,20s/M,45 days,45 days,N/A,N/A,Yes,Details,Qatar study of all cases
+17,Sept. 29,Qatar,40s/M,70 days,70 days,N/A,N/A,Yes,Details,Qatar study of all cases
+18,Sept. 29,Qatar,40s/F,87 days,87 days,N/A,N/A,Yes,Details,Qatar study of all cases
+19,Sept. 29,Qatar,20s/M,54 days,54 days,N/A,N/A,Yes,Details,Qatar study of all cases
+20,Sept. 26,United States,60s,118 days,118 days,Serious,Mild,Yes,Details,Seattle area nursing home (Swedish Medical Center)
+21,Sept. 23,India,27/M,60 days,60 days,Mild,Mild (more intense),Yes,Details,Mumbai HCW
+22,Sept. 23,India,31/M,59 days,59 days,None,Mild,Yes,Details,Mumbai HCW
+23,Sept. 23,India,27/M,13 days,13 days,None,Mild,Yes,Details,Mumbai HCW
+24,Sept. 23,India,24/F,48 days,48 days,Mild,Mild (more intense),Yes,Details,Mumbai HCW
+25,Sept. 23,United States,42/M,51 days,51 days,Mild,Serious,Yes,Details,Military HCW at DoD hospital Virginia
+26,Sept. 15,India,28/F,101 days,101 days,None,None,Yes,Details,North India (HCWs)
+27,Sept. 15,India,25/M,100 days,100 days,None,None,Yes,Details,North India (HCWs)
+28,August 30,Ecuador,46/M,47 days,47 days,Mild,Moderate,Yes,Details,Quito
+29,August 28,United States,25/M,31 days,31 days,Mild,Serious,Yes,Details,"Reno, NV"
+30,August 26,Netherlands,60s/M,12 days,12 days,Mild,Serious,Yes,Details,Tilburg
+31,August 26,Netherlands,80s/M,23 days,23 days,Mild,Mild,Yes,Details,Tilburg
+32,August 26,Netherlands,60+,60 days (estimate),60 days (estimate),N/A,N/A,Yes,Details,N/A
+33,August 24,Belgium,51/F,93 days,93 days,Mild,Mild (less intense),Yes,Details,Leuven
+34,August 24,Hong Kong,33/M,123 days,123 days,Mild,None,Yes,Details,-
+36,TOTAL,28,1,78 days,78 days,83%,87%,26,NA,NA
