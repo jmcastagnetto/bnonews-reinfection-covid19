@@ -2,7 +2,7 @@
 
 Originally published by BNO News
 
-Last updated on: 2020-12-13
+Last updated on: 2021-01-17
 
 Sources:
 
