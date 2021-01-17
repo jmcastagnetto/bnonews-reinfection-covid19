@@ -48,7 +48,7 @@ p1 <- ggplot(
   labs(
     title = "Characteristics of confirmed COVID-19 reinfections",
     subtitle = "Source: BNO News (https://bit.ly/confirmedcovid19reinfections)",
-    caption = "2020-12-15 // @jmcastagnetto, Jesus M. Castagnetto"
+    caption = paste0(Sys.Date(), " // @jmcastagnetto, Jesus M. Castagnetto")
   ) +
   theme_minimal(18) +
   theme(
@@ -57,9 +57,15 @@ p1 <- ggplot(
     plot.caption = element_text(family = "Inconsolata")
   )
 p1
+
+fname <- paste0(
+  format(Sys.Date(), "%Y%m%d"),
+  "-characteristics-covid19-reinfections.png"
+)
+
 ggsave(
   plot = p1,
-  filename = "20201215-characteristics-covid19-reinfections.png",
+  filename = fname,
   width = 16,
   height = 8
 )

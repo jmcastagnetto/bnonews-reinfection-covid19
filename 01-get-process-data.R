@@ -66,48 +66,58 @@ colnames(suspected_head_df) <- suspected_raw[1, 1:2]
 colnames <- suspected_raw[4,]
 
 suspected_df <- bind_rows(
-  suspected_raw[6:16,] %>%
+  suspected_raw[6:23,] %>%
     mutate(country = "United States"),
-  suspected_raw[18:20,] %>%
+  suspected_raw[25:27,] %>%
     mutate(country = "Argentina"),
-  suspected_raw[22,] %>%
+  suspected_raw[29,] %>%
     mutate(country = "Australia"),
-  suspected_raw[24,] %>%
+  suspected_raw[31,] %>%
     mutate(country = "Bahamas"),
-  suspected_raw[26:42,] %>%
+  suspected_raw[33:65,] %>%
     mutate(country = "Brazil"),
-  suspected_raw[44,] %>%
+  suspected_raw[67,] %>%
     mutate(country = "Bulgaria"),
-  suspected_raw[46,] %>%
-    mutate(country = "Costa Rica"),
-  suspected_raw[48,] %>%
-    mutate(country = "Estonia"),
-  suspected_raw[50,] %>%
-    mutate(country = "Iraq"),
-  suspected_raw[52,] %>%
-    mutate(country = "Israel"),
-  suspected_raw[54:55,] %>%
-    mutate(country = "Italy"),
-  suspected_raw[57,] %>%
-    mutate(country = "Latvia"),
-  suspected_raw[59:60,] %>%
-    mutate(country = "Mexico"),
-  suspected_raw[62,] %>%
-    mutate(country = "Pakistan"),
-  suspected_raw[64,] %>%
-    mutate(country = "Paraguay"),
-  suspected_raw[66:67,] %>%
-    mutate(country = "Peru"),
   suspected_raw[69,] %>%
-    mutate(country = "Portugal"),
+    mutate(country = "Colombia"),
   suspected_raw[71,] %>%
-    mutate(country = "Russia"),
+    mutate(country = "Costa Rica"),
   suspected_raw[73,] %>%
-    mutate(country = "Sweden"),
+    mutate(country = "El Salvador"),
   suspected_raw[75,] %>%
-    mutate(country = "Turkey"),
+    mutate(country = "Estonia"),
   suspected_raw[77,] %>%
-    mutate(country = "Qatar")
+    mutate(country = "India"),
+  suspected_raw[79,] %>%
+    mutate(country = "Iraq"),
+  suspected_raw[81,] %>%
+    mutate(country = "Israel"),
+  suspected_raw[83:84,] %>%
+    mutate(country = "Italy"),
+  suspected_raw[86,] %>%
+    mutate(country = "Latvia"),
+  suspected_raw[88:90,] %>%
+    mutate(country = "Mexico"),
+  suspected_raw[92,] %>%
+    mutate(country = "Netherlands"),
+  suspected_raw[94:96,] %>%
+    mutate(country = "Pakistan"),
+  suspected_raw[98:100,] %>%
+    mutate(country = "Paraguay"),
+  suspected_raw[102:103,] %>%
+    mutate(country = "Peru"),
+  suspected_raw[105,] %>%
+    mutate(country = "Portugal"),
+  suspected_raw[107,] %>%
+    mutate(country = "Russia"),
+  suspected_raw[109,] %>%
+    mutate(country = "Sweden"),
+  suspected_raw[111,] %>%
+    mutate(country = "Turkey"),
+  suspected_raw[113:114,] %>%
+    mutate(country = "Qatar"),
+  suspected_raw[116:117,] %>%
+    mutate(country = "United Kingdom")
 )
 colnames(suspected_df)[1:6] <- colnames
 suspected_df <- suspected_df %>%

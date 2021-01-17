@@ -1,15 +1,22 @@
 V2,V3,V4,V5,V6,V7
 CASES,DEATHS,NA,NA,NA,NA
-"1,673",20,NA,NA,NA,NA
+"2,436",24,NA,NA,NA,NA
 Reported,Confidence,Cases,Deaths,Details,Links
 Reported,Confidence,Cases,Deaths,Details,Links
 UNITED STATES,UNITED STATES,UNITED STATES,UNITED STATES,UNITED STATES,UNITED STATES
-Dec. 7,Suspected,3,N/A,NC: People in Stanly Co. who tested positive twice at least 12 weeks apart. First two cases reported on Nov. 23. No further details.,Details
-Dec. 3,Suspected,300,N/A,Colorado: About 300 people in the state have tested positive a second time.,Details
+Jan. 4,Suspected,7,N/A,"NC: People in Stanly Co. who tested positive at least 12 weeks apart. First 2 cases on Nov. 23, one on Dec. 7, one on Dec. 16, and 3 on Jan. 4. No details.",Details
+Dec. 29,Suspected,1,N/A,NY: One case of reinfection was reported in Ontario County. No further details.,Details
+Dec. 30,Suspected,8,N/A,MO: Marion County reported 8 suspected cases of reinfection. All had at least 90 days between the two episodes and some had a negative test during the interval. The first 4 cases were reported on Dec. 7.,Details
+Dec. 22,Suspected,461,0,"WA: All cases had a minimum 90-day interval between the two episodes. 17 paired specimens are awaiting genomic sequencing. The first 120 suspected cases were reported on Oct. 20, 235 more on Dec. 1, and 106 on Dec. 22.",Details
+Dec. 21,Probable,1,0,MT: Libby resident Kaide Dodson was briefly hospitalized while suffering from COVID-19 in early August. She tested negative later that month and two more times in October. She fell ill again after her husband tested positive in early Nov.,Details
+Dec. 21,Suspected,1,0,"NC: Jermaine Byers from Guilford County tested positive twice within the span of ""a few months."" Both episodes were symptomatic with ""more intense"" body aches the second time.",Details
+Dec. 18,Suspected,1,0,"TX: 23-year-old Larissa Fenstermaker was infected in March and was sick with ""severe symptoms"" for 1.5 month. She again tested positive in mid-November and suffered mild symptoms for a few days.",Details
+Dec. 10,Suspected,250,N/A,"Indiana: The Regenstrief Institute, citing data from its health care partners, found at least 250 people who tested positive at least 90 days apart.",Details
+Dec. 10,Probable,2,N/A,AR: 2 girls (a baby and a 6-year-old girl) tested positive twice and were symptomatic both times. They were well and tested negative in between and were exposed to positive cases before the suspected reinfection. 2 other suspected cases from this study did not meet criteria for inclusion.,Details
+Dec. 3,Suspected,300,N/A,CO: About 300 people in the state have tested positive a second time.,Details
 Dec. 3,Probable,1,0,"Lake Mohegan, NY: Angelina Friedman, a 102-year-old nursing home resident, tested positive in March when she was taken to hospital for a minor leg procedure. Mild symptoms (fever) for up to 10 days, followed by a negative test. Tested positive again in October with more intense symptoms. Patient recovered.",Details
-Dec. 1,Suspected,355,N/A,WA: All cases had a minimum 90-day interval between the two episodes. Less than 5% have paired specimens for genomic sequencing.,Details
 Dec. 1,Suspected,1,0,"Dubuque, IA: Nursing home resident had two positive tests with an interval of at least 2 months. Patient was tested weekly and each test was negative until the apparent reinfection, which was symptomatic. No details on first episode.",Details
-Nov. 30,Suspected,34,0,"Mecklenburg Co., NC: People who had two positive tests more than three months apart. No deaths as of November 30.",Details
+Nov. 30,Suspected,34,0,NC: People in Mecklenburg County who had two positive tests more than three months apart. No deaths as of November 30.,Details
 Nov. 25,Suspected,1,0,"Dallas, TX: Meredith McKee, 45, tested positive in February, suffered mild symptoms, and recovered after a few weeks. Tested positive in June after going to the hospital with high blood pressure.",Details
 Nov. 14,Probable,1,0,RI: Man in his 70s tested positive in early April and was hospitalized 12 days later with worsening shortness of breath. Significant medical history. Hospitalized again 7 months later after wife and daughter tested positive. Severe symptoms. Positive for COVID-19.,Details
 Oct. 29,Suspected,1,1,"NV: Michelle Eaglehawk, 48, tested positive in April. Lingering cough and a case of severe pneumonia over the next few months. Tested positive a second time in late August, died on September 25.",Details
@@ -24,7 +31,23 @@ Oct. 21,Probable,1,0,Patient tested positive on October 19 after previously cont
 BAHAMAS,BAHAMAS,BAHAMAS,BAHAMAS,BAHAMAS,BAHAMAS
 Oct. 19,Suspected,2,1,"Both patients tested negative and were asymptomatic between both episodes. One of them, a patient with cancer and kidney failure, died after the apparent reinfection. It's unclear if COVID-19 was the cause of death.",Details
 BRAZIL,BRAZIL,BRAZIL,BRAZIL,BRAZIL,BRAZIL
-Dec. 9,Suspected,16,N/A,Paraíba: 16 suspected cases under investigation. No further details. Another suspected case was confirmed as a reinfection on Dec. 9 (but was excluded from the state's tally because the patient lives in Rio Grande do Norte).,Details
+Jan. 14,Probable,1,0,Espírito Santo: Healthcare worker (35M) in Iúna tested positive with a 6-month interval. Hospitalized with more intense symptoms upon reinfection. Recovered.,Details
+Jan. 12,Probable,1,N/A,Mato Grosso do Sul: 27-year-old woman from Três Lagoas suffered two symptomatic episodes with a 6-month interval. Samples sent for analysis.,Details
+Jan. 8,Suspected,41,N/A,"Bahia: State investigating 118 suspected cases (82 female and 36 male, ages 5 to 80+). 77 cases which were earlier reported were deducted from the tally.",Details
+Jan. 7,Suspected,7,0,Maranhão: 7 suspected cases were sent to a lab for analysis. All have recovered. Four other suspected cases were discarded after laboratory analysis.,Details
+Jan. 2,Suspected,38,1,"Paraíba: 38 suspected cases under investigation, incl. a woman in her 40s who died. The first 20 were cases reported on Dec. 15 and 18 more on Jan. 2.",Details
+Dec. 30,Suspected,2,N/A,Piauí: 2 suspected cases are pending genomic sequencing. A third case was excluded without analysis because the second positive test was within 90 days.,Details
+Dec. 22,Suspected,24,N/A,"Alagoas: 18 suspected cases in Maceió, 2 in São Miguel dos Campos, and 1 each in União dos Palmares, Junqueiro, São Miguel dos Milagres and Maragogi.",Details
+Dec. 21,Suspected,24,N/A,"São Paulo: 37 suspected cases under investigation. To avoid the possibility of double counting, 13 cases in Bauru have been deducted from this tally.",Details
+Dec. 20,Suspected,115,N/A,"501 suspected reinfections under investigation nationwide. To avoid the possibility of double counting, 386 cases have been deducted from this tally.",Details
+Dec. 19,Suspected,1,N/A,Rio Grande do Sul: 1 suspected reinfection in Torres. No further details.,Details
+Dec. 16,Suspected,74,N/A,"Bahia: State health department investigating 77 suspected cases, including 43 healthcare workers. 3 cases which were earlier reported were deducted from the tally. All had an interval of at least 90 days. Samples will be sent for analysis.",Details
+Dec. 14,Suspected,8,N/A,"Rio Grande do Norte: 8 suspected cases under investigation (6 in Natal, 1 in Parnamirim, and 1 in São Gonçalo do Amarante). No further details.",Details
+Dec. 12,Suspected,4,N/A,Santa Catarina: 4 cases from Oct. under investigation. Samples sent for analysis.,Details
+Dec. 11,Suspected,5,N/A,"Mato Grosso: 3 cases in Cuiabá, 1 in Nobres, and 1 in Campos de Júlio. One of the cases in Cuiabá is State Health Secretary Gilberto Figueiredo.",Details
+Dec. 10,Suspected,3,N/A,"Federal District: Samples from 3 suspected reinfection cases being analyzed. All had an interval of at least 90 days between positive tests. First test between June and August, second test between late November and early December.",Details
+Dec. 9,Suspected,136,N/A,"Ceará: 183 people found to have tested positive at least 21 days apart, including 83 in Fortaleza. 35 were excluded after further investigation. 12 other cases which were previously added to this list have been deducted from the tally.",Details
+Dec. 8,Suspected,2,N/A,"Rondônia: The state's health secretary said in a legal document that suspected cases of reinfection had been reported in some municipalities. Other details, including the number of suspected cases, were not provided.",Details
 Dec. 7,Suspected,1,N/A,Pernambuco: 26-year-old woman in Chã Grande tested positive in early December after she had COVID-19 about 3 months earlier. No other details.,Details
 Dec. 7,Suspected,1,N/A,Rio de Janeiro: The municipality of Italva reported 1 case of reinfection,Details
 Dec. 4,Suspected,7,0,Rio Grande do Sul: 7 employees at Hospital de Clínicas in Porto Alegre tested positive at the beginning of the outbreak. Details about 1st episodes unclear. All fell ill between October and November and tested positive again. One of the cases was sent for genomic sequencing but the sample was of poor quality.,Details
@@ -40,28 +63,41 @@ Nov. 22,Suspected,2,N/A,Rio Grande do Sul: 2 suspected cases (90F and 60F) in Sa
 Nov. 17,Suspected,15,N/A,"Acre: 15 suspected cases of reinfection were identified in the state as of Nov. 17 (13 in Rio Branco, 1 in Capixaba, and 1 in Senador Guiomard). Each had an interval of at least 90 days between both episodes.",Details
 Oct. 20,Suspected,1,N/A,Bahi: Man (about 50 years old) in Feira de Santana tested positive in June and a second time on October 9. The second episode was more serious.,Details
 Oct. 19,Probable,12,0,"Ceará: State health department looked at cases with 2 distinct episodes. Includes 10 healthcare workers. Interval: 42 to 133 days (median: 60 days). In 8 cases, the reinfection was more intense, of which 1 was admitted to ICU.",Details
-Oct. 19,Suspected,227,N/A,"Survey of state health departments found 247 suspected cases. All tested negative after recovering from the 1st infection. As a precaution, to avoid the possibility of double counting, 20 other cases were deducted from this figure.",Details
+Sept. 3,Probable,1,1,"Santa Catarina: Leocadia da Silva, a 59-year-old woman with diabetes from Blumenau, became ill around April 21 and recovered in about 2 weeks. She became sick again about a week after her daughter-in-law tested positive in mid-July. She was hospitalized on August 3 after refusing to go as long as possible in fear of being intubated. She died on August 28.",Details
 BULGARIA,BULGARIA,BULGARIA,BULGARIA,BULGARIA,BULGARIA
 Nov. 22,Suspected,4,0,"2 nurses, a surgeon, and a secretary at the Military Medical Academy tested positive after suffering from COVID-19 months earlier. One of them suffered a serious reinfection. Bulgaria's Health Ministry does not track reinfections.",Details
+COLOMBIA,COLOMBIA,COLOMBIA,COLOMBIA,COLOMBIA,COLOMBIA
+Jan. 12,Suspected,1,0,"Healthcare worker (44M) had contact with a positive, symptomatic relative on June 26. He and his family tested positive on July 2 but remained asymptomatic. Developed symptoms on Oct. 11, followed by positive test. Recovered.",Details
 COSTA RICA,COSTA RICA,COSTA RICA,COSTA RICA,COSTA RICA,COSTA RICA
-Dec. 4,Suspected,8,1,"8 suspected cases (4 men and 4 women) under investigation, including one person who died. Results are expected by the end of the year.",Details
+Dec. 30,Probable,9,1,"8 probable cases, including one person who died, and 1 suspected case.",Details
+EL SALVADOR,EL SALVADOR,EL SALVADOR,EL SALVADOR,EL SALVADOR,EL SALVADOR
+Dec. 19,Suspected,1,1,1 healthcare worker was reported to have died of a reinfection. No further details.,Details
 ESTONIA,ESTONIA,ESTONIA,ESTONIA,ESTONIA,ESTONIA
 Oct. 15,Suspected,2,N/A,"At least 2 suspected reinfections, possibly more. One patient tested positive at the end of March and again in September.",Details
+INDIA,INDIA,INDIA,INDIA,INDIA,INDIA
+Dec. 9,Probable,1,0,"Haryana: 21-year-old woman tested positive in July after developing a sore throat, which resolved in 10 days. A new test for COVID-19 was negative. She developed a sudden onset of complete loss of smell in Sept, and again tested positive. The anosmia spontaneously resolved after 2 weeks and a new test was negative.",Details
 IRAQ,IRAQ,IRAQ,IRAQ,IRAQ,IRAQ
 Nov. 23,Probable,26,0,"Study among 829 patients admitted to Qala Hospital in Kalar, Kurdistan Region, between late May and mid-October. 87 patients were negative for IgG after recovery and, among those, 25 were reinfected. Only one patient in the IgG-positive group was reinfected. Interval: 26 to 138 days (avg: 54)",Details
 ISRAEL,ISRAEL,ISRAEL,ISRAEL,ISRAEL,ISRAEL
-Dec. 3,Suspected,82,1,"Nursing home resident, 74, became ill with COVID-19 in August and eventually recovered, which was followed by 3 negative tests. Died in late November or early December after falling ill a second time. 81 suspected cases under investigation.",Details
+Oct. 13,Suspected,81,N/A,81 suspected cases under investigation as of mid-October.,Details
 ITALY,ITALY,ITALY,ITALY,ITALY,ITALY
 Nov. 28,Suspected,1,0,"Man, 69, tested positive in March. Symptoms resolved after 3 months of hospitalization, which was followed by a negative test. During his stay, the patient was also diagnosed with cancer and chemotherapy was initiated upon release. Returned to hospital with new symptoms 41 days later and tested positive.",Details
 Oct. 19,Suspected,1,0,Colombian cyclist Fernando Gaviria tested positive while participating in the UAE Tour in February and was hospitalized with symptoms for 2 weeks. More than a dozen negative tests between late July and mid-October. Test on Oct. 19 was positive while Gaviria participated in the Giro d'Italia. Additional PCR tests were carried out to confirm. Reinfection was asymptomatic.,Details
 LATVIA,LATVIA,LATVIA,LATVIA,LATVIA,LATVIA
 Dec. 3,Suspected,2,N/A,One person in a risk group (medical or social service worker) was infected in the spring and a second time in the fall. Another person was infected abroad and a second time in Latvia. No details about their illness.,Details
 MEXICO,MEXICO,MEXICO,MEXICO,MEXICO,MEXICO
-Oct. 18,Suspected,1,0,"Juarez Mayor Armando Cabada Alvidrez tested positive in May and remained asymptomatic. In November, he tested positive a second time and developed symptoms. Hospitalized for observation due to inflammation of the lungs.",Details
-Oct. 18,Probable,258,11,"Retrospective study of confirmed cases. Reinfection was defined by the reappearance of symptoms with an interval of at least 28 days. Median interval: 56 days (interquartile range 40-81). Most were 50 or younger. Patients with more serious primary disease were more likely to develop severe symptoms, as well as those 50+ or with chronic diseases.",Details
+Jan. 16,Suspected,90,N/A,"State of Mexico: 90 suspected reinfections as of January 16, 2021. Some people were more seriously ill the second time while others had the opposite.",Details
+Oct. 18,Suspected,1,0,Juarez Mayor Armando Cabada Alvidrez tested positive in May and remained asymptomatic. He tested positive a second time in November and developed symptoms. Hospitalized for observation due to inflammation of the lungs.,Details
+Oct. 18,Probable,167,11,"Retrospective study of confirmed cases found 258 possible reinfections. Definition: The reappearance of symptoms with an interval of at least 28 days. Patients with more serious primary disease were more likely to develop severe symptoms, as well as those 50+ or with chronic diseases. 91 cases were subtracted from this tally to avoid the possibility of double counting.",Details
+NETHERLANDS,NETHERLANDS,NETHERLANDS,NETHERLANDS,NETHERLANDS,NETHERLANDS
+Dec. 4,Suspected,46,N/A,"""More than 50"" suspected reinfections in the Netherlands as of early December. 4 confirmed cases were subtracted from this tally to prevent double counting.",Details
 PAKISTAN,PAKISTAN,PAKISTAN,PAKISTAN,PAKISTAN,PAKISTAN
+Dec. 13,Suspected,22,N/A,"Dozens of reinfections reported at health facilities in major cities, with some having severe illness the 2nd time. Exact number of suspected cases unknown (2 earlier reported cases subtracted to avoid double counting). Dr. Faisal Mahmood of Aga Khan University Hospital (AKUH) said a study is underway.",Details
 Oct. 26,Probable,1,0,"Cardiac surgeon, 58, was hospitalized in April after surgery on two patients later found to have COVID-19. Surgeon tested positive with signs of interstitial pneumonia. Discharged one week later after two negative tests. Surgeon developed new symptoms about 2 months later after performing surgery on patients with COVID-19. He again tested positive.",Details
+Oct. 16,Suspected,1,1,"Senior Pakistan Peoples Party (PPP) official Rashid Rabbani tested positive in May but remained asymptomatic. In October, he tested positive again and was taken to a hospital in Karachi in serious condition. He died on October 15",Details
 PARAGUAY,PARAGUAY,PARAGUAY,PARAGUAY,PARAGUAY,PARAGUAY
+Dec. 31,Suspected,20,N/A,"Alto Paraná: At least 20 suspected cases, including Governor Roberto González Vaesken, who suffered mild symptoms during both episodes. Many suffered more serious symptoms the 2nd time. Samples sent to the U.S. for analysis.",Details
+Dec. 13,Probable,1,1,"Lucía Cantero, a 37-year-old nurse at a hospital in Ciudad del Este with underlying health conditions such as high blood pressure, tested positive in August and had symptoms of COVID-19. She tested positive a second time in December and died after 4 days in the ICU. Samples sent to U.S. lab for analysis.",Details
 Dec. 3,Suspected,10,2,"The health ministry said it's aware of apparent reinfections, including cases which resulted in death. The number of suspected cases and deaths was not specified, but an earlier report in mid-November said at least 10 cases had been reported. Samples were sent to foreign labs for further analysis.",Details
 PERU,PERU,PERU,PERU,PERU,PERU
 Dec. 11,Suspected,25,N/A,"27 suspected cases (meaning 2 positive tests at least 90 days apart), but paired samples available in only 4 of the cases. One of those cases was confirmed as a reinfection (see list of confirmed cases). Tally of suspected cases reduced by one more to avoid double counting with the case added on Dec. 8.",Details
@@ -75,12 +111,25 @@ Nov. 16,Suspected,150,N/A,All cases had a minimum 3-month interval between the t
 TURKEY,TURKEY,TURKEY,TURKEY,TURKEY,TURKEY
 Oct. 3,Suspected,1,0,"Hospital registrar, 23F, became ill in early April with a number of symptoms. Positive test for COVID-19. Condition improved within 10 days. Two negative tests on April 22 and April 27. Fell ill a second time in early August and again test positive. Condition improved in 1 week, followed by a negative test.",Details
 QATAR,QATAR,QATAR,QATAR,QATAR,QATAR
+Jan. 16,Suspected,46,0,"Study of 314 people diagnosed with SARS-CoV-2 after previously testing positive for antibodies. 129 cases were determined to have good or some evidence of reinfection, of which 62 had records indicating prior diagnosis. Genomic sequencing found no evidence for reinfection in 11 cases and 5 were confirmed.",Details
 Sept. 29,Probable,42,0,"Retrospective study of 133,266 positive tests. 243 people had a second positive test with an interval of ≥45 days, including 54 with strong or good evidence for reinfection. Results: 23 cases had no paired specimens, 11 remained undetermined due to low genome quality, 8 were ruled out, and 4 were confirmed. This leaves 42 suspected cases. Median interval: 64 days (range: 45-129). Symptoms: Mild or none at all. Median age: 33 (range: 16-57)",Details
-TOTAL,NA,"1,673",20,NA,NA
-Other cases   / Excluded due to low confidence,NA,NA,NA,NA,NA
+UNITED KINGDOM,UNITED KINGDOM,UNITED KINGDOM,UNITED KINGDOM,UNITED KINGDOM,UNITED KINGDOM
+Dec. 28,Suspected,3,N/A,A study from Public Health England on a new virus variant found 3 suspected reinfections in the comparator group. No further details.,Details
+Dec. 18,Probable,4,N/A,"An expert committee advising the government said 4 ""probable reinfections"" were identified among 915 people found to be carrying a new variant of the virus",Details
+TOTAL,NA,"2,436",24,NA,NA
+Other cases   / Excluded due to low confidence or pending more info,NA,NA,NA,NA,NA
 Reported,Location,Cases,Deaths,Details,Links
-BRAZIL,BRAZIL,BRAZIL,BRAZIL,BRAZIL,BRAZIL
-Dec. 1,Suspected,1,0,57M tested positive in March after contact with an infected colleague and remained asymptomatic. Two negative PCR tests on day 14 and 24. Presented with symptoms on Day 86 and tested positive. Excluded b/c the dates suggest this case would have been included in the Sept. 29 Qatar study.,Details
+Dec. 1,Suspected,1,0,57M tested positive in March after contact with an infected colleague and remained asymptomatic. Two negative PCR tests on day 14 and 24. Presented with symptoms on Day 86 and tested positive. Excluded b/c the dates suggest this case would've been included in the Sept. 29 Qatar study.,Details
 Oct. 28,Brazil,1,0,"36/F doctor developed multiple symptoms on March 20. Tested positive on March 27. Complete resolution of symptoms after 24 days, returned to work at COVID ICUs. Negative for IgM and IgG in April and May. New symptoms developed June 10. RT-PCR tests negative, serology tests positive.",Details
+Dec. 10,USA,1,1,Actor Tommy 'Tiny' Lister tested positive in August and suffered symptoms such as difficulty breathing and fatigue. He recovered but fell ill again in early December with COVID-19 symptoms. Found dead on Dec. 10 before getting tested. CAUSE OF DEATH PENDING. Coroner case number 2020-11539,Details
+Dec. 11,Brazil,3?,N/A,"Rondônia First Lady Luana Rocha and her children (unk how many) tested positive in July but her husband (Governor Marcos Rocha) did not. Unk if any had symptoms. All of them, including the governor, tested positive in early Dec.",Details
+Dec. 14,USA,Several,N/A,"NC: Dr. Mark Jaben said in an interview that ""a few"" cases of reinfection have been reported in Haywood County. Awaiting response from county health director.",Details
+Dec. 13,Brazil,1,N/A,"Rondônia: Adinael de Azevedo, mayor of Nova União, said he tested positive for coronavirus a second time. No further details.",Details
+Dec. 10,UK,1,0,"EXCLUDED - 25M doctor exhibited COVID symptoms following extensive exposure. PCR test negative, follow-up antibody test positive. New symptoms in October along with positive test.",Details
+Dec. 13,USA,1,0,Previously health 30M experienced symptoms 2 days after an international flight on March 15. Tested positive. Asymptomatic 18-day period before a new episode of symptoms along with a positive test. Symptoms have continued for 8 months.,Details
+Dec. 22,Brazil,1,N/A (active),Piauí: Teresina Mayor Jeová Alencar was hospitalized for COVID-19 in December. He also tested positive in July but remained asymptomatic.,Details
+Dec. 30,Guyana,1,0,National Assembly Speaker Manzoor Nadir tested positive in September but remained asymptomatic. He developed symptoms in December and had a second positive test. Three of his family members were also affected.,Details
+Jan. 9,UK,8,N/A,"Out of 10,727 people who had a positive PCR or antibody test at a SW London laboratory between Feb. and July 2020, 8 had a positive PCR test in December 2020. All 8 were female and one (aged 71) was admitted to hospital. Four additional cases were excluded because their PCR test was within 90 days of their last positive result. Excluded bc: unknown how many had 2 positive PCRs.",Details
+Jan. 15,Germany,1,1,"PENDING CONFIRMATION: Patient in Baiersbronn tested positive on April 4, 2020, and recovered with no signs of Long COVID. New symptoms from Dec. 31 with a new positive PCR test on January 3. Died in ICU on January 11.",NA
 Oct. 24,Portugal,1,N/A,NA,Details
 TOTAL,NA,2,0,NA,NA

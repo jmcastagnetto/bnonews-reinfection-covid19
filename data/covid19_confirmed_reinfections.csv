@@ -1,8 +1,19 @@
 reported,location,iso3c,patient,age,gender,interval,interval_unit,symptoms_1st_case,symptoms_2nd_case,recovered,identifier
+2020-01-16,Qatar,QAT,40-44/F,40,F,84,days,N/A,Moderate,Yes,Patient ID# 5
+2020-01-16,Qatar,QAT,35-39/F,35,F,110,days,None,None,Yes,Patient ID# 64
+2020-01-16,Qatar,QAT,35-39/M,35,M,59,days,N/A,None,Yes,Patient ID# 72
+2020-01-16,Qatar,QAT,30-34/M,30,M,81,days,Serious,Serious,Yes,Patient ID# 88
+2020-01-16,Qatar,QAT,35-39/M,35,M,84,days,N/A,None,Yes,Patient ID# 127
+2020-01-15,Brazil,BRA,29/F,29,F,281,days,N/A,Mild,Yes,Jan. 13. Reinfection with Brazilian variant (B.1.1.28 subclade)
+2020-01-10,UK,GBR,78/M,78,M,250,days,Mild,Serious,N/A,Reinfection with UK variant (B.1.1.7)
+2020-01-08,Brazil,BRA,45/F,45,F,147,days,Mild,Mild (more intense),Yes,Reinfection with E484K mutation
+2020-12-22,Israel,ISR,74/M,74,M,90,days,Symptomatic,Symptomatic,No,Nursing home resident
+2020-12-17,Mexico,MEX,M,NA,M,64,days,Symptomatic,Symptomatic,N/A,Patient from Guerrero (gender not explicitly confirmed)
+2020-12-16,Brazil,BRA,41/F,41,F,145,days,Symptomatic,Symptomatic,Yes,"HCW from Fernandópolis, Sao Paulo"
 2020-12-11,Peru,PER,6/F,6,F,97,days,Mild,Mild,N/A,6yo in Lima. First confirmed case.
-2020-12-09,Brazil,BRA,37/F,37,F,116,days,Mild,Mild,Yes,"HCW living in Rio Grande do Norte, working in Paraiba"
+2020-12-09,Brazil,BRA,37/F,37,F,116,days,Mild,Mild,Yes,"HCW living in Natal, Rio Grande do Norte (counted there), works in Paraiba"
 2020-11-21,South Korea,KOR,21/F,21,F,10,days,Mild,Mild,Yes,"SK first case, 3 episodes"
-2020-11-10,Belgium,BEL,30s/F,30,F,185,days,Mild (long),Mild (milder),Yes,"HCW, hospital outbreak"
+2020-11-10,Belgium,BEL,39/F,39,F,185,days,Mild (long),Mild (milder),Yes,"HCW, hospital outbreak"
 2020-10-16,Sweden,SWE,53/F,53,F,120,days,Mild,Mild (milder),Yes,Sahlgrenska Uni Hospital/researcher Johan Ringlander
 2020-10-14,Spain,ESP,62/M,62,M,147,days,Mild,Serious,Yes,NA
 2020-10-12,Netherlands,NLD,89/F,89,F,54,days,Moderate,Serious,No,1st death. Initial report August 24

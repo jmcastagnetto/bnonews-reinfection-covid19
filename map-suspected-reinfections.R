@@ -1,6 +1,6 @@
 library(tidyverse)
 library(tmap)
-
+data(World)
 suspected <- read_csv(
   "data/covid19_suspected_reinfections.csv",
   na = c("", "-", "NA", "N/A")
@@ -26,16 +26,21 @@ map1 <- tm_shape(my_data) +
     main.title = "Suspected COVID-19 reinfections"
   ) +
   tm_credits(
-    text = "Source: BNO News (https://bit.ly/suspectedcovid19reinfections)\n2020-12-14 // @jmcastagnetto, Jesus M. Castagnetto",
+    text = paste0("Source: BNO News (https://bit.ly/suspectedcovid19reinfections)\n", Sys.Date()," // @jmcastagnetto, Jesus M. Castagnetto"),
     fontface = "bold",
     fontfamily = "Inconsolata",
     bg.color = "white",
     position = c("center", "bottom")
   )
 map1
+
+fname <- paste0(
+  format(Sys.Date(), "%Y%m%d"),
+  "-map-suspected-cases-covid19-reinfection.png"
+)
 tmap_save(
   tm = map1,
-  filename = "20201214-map-suspected-cases-covid19-reinfection.png",
+  filename = fname,
   width = 10,
   height = 5
 )
