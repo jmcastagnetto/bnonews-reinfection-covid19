@@ -8,8 +8,16 @@ confirmed <- read_csv(
   mutate(
     age_range = cut(age,
                     breaks = seq(0, 100, by = 10),
-                    right = FALSE,
-                    ordered_result = TRUE),
+                    right = FALSE),
+    age_range = fct_explicit_na(age_range),
+    age_range = factor(
+      as.character(age_range),
+      levels =c("(Missing)", "[0,10)", "[10,20)",
+                "[20,30)", "[30,40)", "[40,50)",
+                "[50,60)", "[60,70)", "[70,80)",
+                "[80,90)", "[90,100)"),
+      ordered = TRUE
+    ),
     gender = factor(
       replace_na(gender, "(Missing)"),
       levels = c("F", "M", "(Missing)"),
@@ -59,6 +67,7 @@ p1 <- ggplot(
 p1
 
 fname <- paste0(
+  "plots/",
   format(Sys.Date(), "%Y%m%d"),
   "-characteristics-covid19-reinfections.png"
 )
@@ -67,5 +76,5 @@ ggsave(
   plot = p1,
   filename = fname,
   width = 16,
-  height = 8
+  height = 10
 )

@@ -1,10 +1,18 @@
 reported,location,iso3c,patient,age,gender,interval,interval_unit,symptoms_1st_case,symptoms_2nd_case,recovered,identifier
+2020-01-27,United States,USA,N/A,NA,NA,NA,NA,N/A,N/A,N/A,NA
+2020-01-27,United States,USA,N/A,NA,NA,NA,NA,N/A,N/A,N/A,NA
+2020-01-26,China,CHN,F,NA,F,34,days,Serious,Mild,Yes,Beijing Ditan Hospital / P1
+2020-01-26,China,CHN,N/A,NA,NA,19,days,Moderate,Mild,Yes,Beijing Ditan Hospital / P2
+2020-01-26,China,CHN,N/A,NA,NA,57,days,Moderate,Mild,Yes,Beijing Ditan Hospital / P3
+2020-01-26,China,CHN,N/A,NA,NA,37,days,Moderate,N/A,Yes,Beijing Ditan Hospital / P4
+2020-01-26,China,CHN,M,NA,M,24,days,Moderate,N/A,Yes,Beijing Ditan Hospital / P5
+2020-01-26,China,CHN,N/A,NA,NA,24,days,Serious,N/A,Yes,Beijing Ditan Hospital / P6
 2020-01-16,Qatar,QAT,40-44/F,40,F,84,days,N/A,Moderate,Yes,Patient ID# 5
 2020-01-16,Qatar,QAT,35-39/F,35,F,110,days,None,None,Yes,Patient ID# 64
 2020-01-16,Qatar,QAT,35-39/M,35,M,59,days,N/A,None,Yes,Patient ID# 72
 2020-01-16,Qatar,QAT,30-34/M,30,M,81,days,Serious,Serious,Yes,Patient ID# 88
 2020-01-16,Qatar,QAT,35-39/M,35,M,84,days,N/A,None,Yes,Patient ID# 127
-2020-01-15,Brazil,BRA,29/F,29,F,281,days,N/A,Mild,Yes,Jan. 13. Reinfection with Brazilian variant (B.1.1.28 subclade)
+2020-01-13,Brazil,BRA,29/F,29,F,281,days,Mild,Mild,Yes,Reinfection with Brazilian variant (B.1.1.28 subclade). In Manaus.
 2020-01-10,UK,GBR,78/M,78,M,250,days,Mild,Serious,N/A,Reinfection with UK variant (B.1.1.7)
 2020-01-08,Brazil,BRA,45/F,45,F,147,days,Mild,Mild (more intense),Yes,Reinfection with E484K mutation
 2020-12-22,Israel,ISR,74/M,74,M,90,days,Symptomatic,Symptomatic,No,Nursing home resident
